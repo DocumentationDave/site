@@ -1,6 +1,15 @@
 # Documentation Dave
 
-Security-focused documentation and open-source contributions
+<p align="center">
+  <img src="assets/logo_words.png" width="320" alt="Documentation Dave">
+</p>
+
+Security-focused documentation and open-source contributions.
+
+<p align="center">
+  <a href="https://github.com/DocumentationDave">GitHub</a> •
+  <a href="https://buymeacoffee.com/documentationdave">Buy Me a Coffee</a>
+</p>
 
 ---
 
@@ -11,8 +20,3 @@ Security-focused documentation and open-source contributions
 - Maintaining a disciplined, clean documentation approach to cybersecurity work
 
 ---
-
-## Presence
-
-- [GitHub](https://github.com/DocumentationDave)
-- [Buy Me a Coffee](https://buymeacoffee.com/documentationdave)

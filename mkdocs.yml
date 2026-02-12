@@ -22,7 +22,6 @@ nav:
   - Home: index.md
   - Notes:
       - notes/index.md
-  - About: about.md
 
 extra:
   social:
