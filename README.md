@@ -1,7 +1,7 @@
 # Documentation Dave
 <p align="center">
-  <a href="https://github.com/documentationdave.github.io/actions/workflows/deploy.yml">
-    <img src="https://github.com/documentationdave.github.io/actions/workflows/deploy.yml" alt="Deploy Docs">
+  <a href="https://github.com/DocumentationDave/documentationdave.github.io/actions/workflows/deploy.yml">
+    <img src="https://github.com/DocumentationDave/documentationdave.github.io/actions/workflows/deploy.yml/badge.svg" alt="Deploy Docs">
   </a>
 </p>
 
